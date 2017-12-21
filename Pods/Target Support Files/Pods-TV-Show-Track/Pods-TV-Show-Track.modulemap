@@ -1,0 +1,6 @@
+framework module Pods_TV_Show_Track {
+  umbrella header "Pods-TV-Show-Track-umbrella.h"
+
+  export *
+  module * { export * }
+}
